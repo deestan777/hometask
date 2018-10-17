@@ -1,0 +1,9 @@
+.news h1 {
+	font-size: 26;
+	text-align: center;
+}
+.news img {
+	display: block;
+	width: 600px;
+	margin: 0 auto;
+}
